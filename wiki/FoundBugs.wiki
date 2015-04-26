@@ -4,7 +4,7 @@
  
  * [https://bugzilla.mozilla.org/show_bug.cgi?id=tsan-maintenance 20+ races in Firefox]
 
- * [https://code.google.com/p/go/issues/list?can=1&q=ThreadSanitizer&colspec=ID+Status+Stars+Priority+Owner+Reporter+Summary&cells=tiles 59 data races in Go standard library]
+ * [https://github.com/golang/go/issues?&q=is%3Aissue+label%3ARaceReport 70 data races in Go standard library]
 
  * [https://code.google.com/p/webrtc/issues/list?can=1&q=tsan+errors 37 data races in WebRTC]
 
@@ -22,7 +22,7 @@
 
  * 1000+ C++ data races in Google internal codebase
 
- * 170+ Go data races in Google internal codebase
+ * 200+ Go data races in Google internal codebase
 
 plus some others that we don't know about.
 
