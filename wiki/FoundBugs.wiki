@@ -20,6 +20,8 @@
 
  * 10+ data races and mutex errors in an unreleased Cloudera C++ software project
 
+ * 20+ data races in [https://github.com/khizmax/libcds libcds - a concurrent data structure library]
+
  * 1000+ C++ data races in Google internal codebase
 
  * 200+ Go data races in Google internal codebase
